@@ -29,7 +29,7 @@ __another bold__
 
 - year1
 - year2 
-    * year2a
+    * year2a 
     * year3a
 - year3
 
