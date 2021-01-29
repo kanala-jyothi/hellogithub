@@ -28,11 +28,7 @@ __another bold__
 ##unorder list
 
 - year1
-
-- year2
-
+- year2 
     * year2a
-    
     * year3a
-    
 - year3
